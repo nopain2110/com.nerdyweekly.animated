@@ -1,8 +1,11 @@
 # Animated GIF wallpaper for KDE Plasma 5
 
-[Demo Video](https://youtu.be/OVNZOYLKcRs)
-
-- Put this in `~/.local/share/plasma/wallpapers/com.nerdyweekly.animated`.
+- Install: 
+  ```
+  $ git clone https://github.com/nopain2110/com.nerdyweekly.animated.git
+  $ cd com.nerdyweekly.animated 
+  $ ./install.sh
+  ```
 - Go to **Desktop Settings**, choose **Wallpaper Type: Animated GIF**, apply, profit.
 - Optional: Go to **Screen Locking** and choose the same wallpaper type. Enable blur if you prefer
   that (I do).
@@ -37,5 +40,5 @@ A bird's eye view:
 
 # Credits
 
-The beaufiful GIF included here was made by [1041uuu](https://www.patreon.com/1041uuu). Check them
+The beaufiful GIF included here was made by [kirokaze](https://www.behance.net/kirokaze). Check them
 out!
