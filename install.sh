@@ -1,4 +1,4 @@
- mkdir -p ~/.local/share/plasma/wallpapers/com.nerdyweekly.animated
- cp -rf ./* ~/.local/share/plasma/wallpapers/com.nerdyweekly.animated
+mkdir -p $HOME/.local/share/plasma/wallpapers/com.nerdyweekly.animated
+cp -rf ./* $HOME/.local/share/plasma/wallpapers/com.nerdyweekly.animated
  
- echo 'Done'
+echo 'Done'
