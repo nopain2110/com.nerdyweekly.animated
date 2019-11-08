@@ -10,10 +10,8 @@ Rectangle {
     AnimatedImage {
         id: animation
         source: "animation.gif"
-        height: 1094; width: 1900
-        x: 20
-        fillMode: Image.PreserveAspectFit
-        smooth: false
+        height: 1080; width: 1920
+        fillMode: Image.Stretch
         cache: true
     }
 

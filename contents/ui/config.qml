@@ -38,8 +38,7 @@ Column {
             AnimatedImage {
                 id: animation
                 source: "animation.gif"
-                fillMode: Image.PreserveAspectFit
-                smooth: false
+                fillMode: Image.Stretch
                 cache: true
             }
 
